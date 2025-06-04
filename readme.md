@@ -98,6 +98,7 @@ This script will:
 - Load datasets from datasets/ with user-defined source &rarr; test folders.
 - Performs a detection test using a selectable detector and target spectrum generator.
 - Computes and prints evaluation metrics, including AUC scores and inference time.
+- Visualize detection maps.
 
 ### 🛠 Customizing the Demo
 
