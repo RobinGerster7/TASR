@@ -47,7 +47,7 @@ class CEM(Detector):
         R_reg = R + lambda_identity  # Shape: (C, C)
 
         # Solve R_reg * w = target instead of computing R^(-1) * target
-        w = scipy.linalg.solve(R_reg, target, assume_a="pos")  # Shape: (C, 1)
+        w = scipy.linalg.solve(R_reg, target, check_finite=False)
 
         # Compute the detection result
         result = (w.T @ img).reshape(1, 1, H, W)  # Shape: (B=1, 1, H, W)
