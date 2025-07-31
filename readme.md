@@ -52,7 +52,7 @@ To improve real-world robustness, we introduce **cross-scene domain adaptation b
 |:---------|:----------------:|
 | SanDiego | [Google Drive](https://drive.google.com/file/d/1lWOUSpMoIRrMngmIGETXglSYEZWljSXa/view?usp=sharing) |
 | Camo     | [Google Drive](https://drive.google.com/file/d/1hjpwV5U3K-E2DhaOBfgm-G82D8xC5Ias/view?usp=sharing) |
-| SSD      | [Google Drive](https://drive.google.com/file/d/1VNVdxnlplbOrxArx6W35nDe-yj-ibPyJ/view?usp=sharing) |
+| SSD      | [Google Drive](https://drive.google.com/file/d/1riN-3BZnn19Euub7dF6qFTukmHy99F1X/view?usp=sharing) |
 
 After downloading and extracting the ZIP files, ensure your dataset structure is as follows:
 
