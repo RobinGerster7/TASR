@@ -23,13 +23,6 @@
 
 ---
 
-# 🔥 Update
-
-**01.06.2025**  
-- Our paper is now available on **[arXiv (2406.11519)](https://arxiv.org/abs/2406.11519)**.
-
----
-
 # 🌞 Overview
 
 **TASR** is the first framework for **test-time domain adaptation** based on **target spectrum refinement**. It enhances hyperspectral target detection by using a discrete genetic algorithm to dynamically adapt to new environmental conditions. TASR is frugal, requiring only one labeled image containing the target material to be detected, making it highly efficient.
