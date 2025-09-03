@@ -109,6 +109,16 @@ For advanced modifications, edit the `DemoExperiment` class in `scripts/experime
 If TASR proves useful to your work, please consider starring this repository ⭐ and citing:
 
 ```
+@article{gerster2025towards,
+  title={Towards Robust Hyperspectral Target Detection via Test-Time Spectrum Adaptation},
+  author={Gerster, Robin and St{\"u}tz, Peter},
+  journal={Remote Sensing},
+  volume={17},
+  number={16},
+  pages={2756},
+  year={2025},
+  publisher={MDPI}
+}
 ```
 
 ---
