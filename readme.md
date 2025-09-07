@@ -9,7 +9,6 @@
 </div>
 
 <p align="center">
-  <a href="#-update">Update</a> |
   <a href="#-overview">Overview</a> |
   <a href="#-datasets">Datasets</a> |
   <a href="#-usage">Usage</a> |
