@@ -125,7 +125,7 @@ If TASR proves useful to your work, please consider starring this repository ⭐
 # 📬 Contact
 
 For inquiries, please contact **Robin Gerster** at:
-- **Email:** [robingerster3@gmail.com](mailto:robingerster3@gmail.com) | [robin.gerster@unibw.de](mailto:robin.gerster@unibw.de)
+- **Email:** [robingerster3@gmail.com](mailto:robingerster3@gmail.com)
 
 ---
 
