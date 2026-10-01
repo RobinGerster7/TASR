@@ -119,14 +119,6 @@ If TASR proves useful to your work, please consider starring this repository ⭐
   publisher={MDPI}
 }
 ```
-
----
-
-# 📬 Contact
-
-For inquiries, please contact **Robin Gerster** at:
-- **Email:** [robingerster3@gmail.com](mailto:robingerster3@gmail.com)
-
 ---
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=RobinGerster7.TASR)
